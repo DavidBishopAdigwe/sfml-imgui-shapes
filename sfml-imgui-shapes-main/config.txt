@@ -1,0 +1,6 @@
+Window 1280 720
+Font fonts\bitCountFont.ttf 18 255 255 255
+Circle CCircle 136 8 8 31 7 10
+Rectangle RRectangle 255 223 187 100 300 7 3
+Circle RedCirc 136 20 20 50 5 2.5
+Rectangle GreenRect 140 234 9 10 3 2.5 5

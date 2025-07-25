@@ -1,0 +1,38 @@
+# Build/system folders
+x64/
+.vs/
+.idea/
+project/
+lib/
+include/
+
+# Build artifacts
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+
+# IDE-specific files
+*.vcxproj.user
+*.suo
+*.user
+*.opensdf
+*.sdf
+
+# ImGui if you're not modifying it
+imgui/
+
+# CMake or CLion cache files
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+*.cbp
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+*.swp
+.DS_Store
+Thumbs.db
